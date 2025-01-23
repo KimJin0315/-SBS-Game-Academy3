@@ -6,3 +6,11 @@ Vulture::Vulture()
 	attack = 20;
 	defense = 0;
 }
+
+void Vulture::Stats()
+{
+	cout << "Attack : " << attack << endl;
+	cout << "Health : " << health << endl;
+	cout << "Defense : " << defense << endl;
+}
+

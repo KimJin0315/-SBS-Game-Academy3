@@ -12,6 +12,6 @@ protected:
 public:
 	Terran();
 
-	void Stats();
+	virtual void Stats();
 };
 
