@@ -5,5 +5,8 @@ class Goliath : public Terran
 {
 public:
 	Goliath();
+
+	void Stats();
+
 };
 
