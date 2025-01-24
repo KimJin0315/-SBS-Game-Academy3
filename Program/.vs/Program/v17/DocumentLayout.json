@@ -7,7 +7,55 @@
       "RelativeMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Banana.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|solutionrelative:Banana.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Fruit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|solutionrelative:Fruit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Brush.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|solutionrelative:Brush.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Paint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|solutionrelative:Paint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Banana.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|solutionrelative:Banana.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Fruit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|solutionrelative:Fruit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Pencil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|solutionrelative:Pencil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Paint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|solutionrelative:Paint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Brush.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|solutionrelative:Brush.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Pencil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|solutionrelative:Pencil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{35A46E0D-9EFF-4373-A0FB-77F14C255223}|..\\Class7th (Virtual Function)\\Class7th (Virtual Function).vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class7th (Virtual Function)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A46E0D-9EFF-4373-A0FB-77F14C255223}|..\\Class7th (Virtual Function)\\Class7th (Virtual Function).vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Terran.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35A46E0D-9EFF-4373-A0FB-77F14C255223}|..\\Class7th (Virtual Function)\\Class7th (Virtual Function).vcxproj|solutionrelative:Terran.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A46E0D-9EFF-4373-A0FB-77F14C255223}|..\\Class7th (Virtual Function)\\Class7th (Virtual Function).vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Terran.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35A46E0D-9EFF-4373-A0FB-77F14C255223}|..\\Class7th (Virtual Function)\\Class7th (Virtual Function).vcxproj|solutionrelative:Terran.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E98E5E5-B2EA-4309-A0A5-629D6D033318}|..\\Class6th (Polymorphism)\\Class6th (Polymorphism).vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class6th (Polymorphism)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -45,7 +93,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-23T10:41:56.036Z",
               "IsPinned": true,
@@ -53,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class1th (Stream)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class1th (Stream)\\Source.cpp",
@@ -62,12 +110,11 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-15T09:11:57.931Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class2th (Class)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class2th (Class)\\Source.cpp",
@@ -76,12 +123,11 @@
               "ViewState": "AQIAACcAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-15T09:04:48.356Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class3th (Constructor \u0026 Destructor)\\Source.cpp",
@@ -90,12 +136,11 @@
               "ViewState": "AQIAAE4AAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-15T10:37:45.807Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class4th (Shallowcopy\u0026Deepcopy)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class4th (Shallowcopy\u0026Deepcopy)\\Source.cpp",
@@ -104,18 +149,17 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-22T09:01:04.743Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class5th (Inheritance)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class5th (Inheritance)\\Source.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class5th (Inheritance)\\Source.cpp",
               "RelativeToolTip": "..\\Class5th (Inheritance)\\Source.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-22T09:58:46.627Z",
               "IsPinned": true,
@@ -123,13 +167,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class6th (Polymorphism)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class6th (Polymorphism)\\Source.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class6th (Polymorphism)\\Source.cpp",
               "RelativeToolTip": "..\\Class6th (Polymorphism)\\Source.cpp",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFsAAAAhAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-22T10:29:36.229Z",
               "IsPinned": true,
@@ -137,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class7th (Virtual Function)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class7th (Virtual Function)\\Source.cpp",
@@ -176,6 +220,162 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Brush.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Brush.h",
+              "RelativeDocumentMoniker": "Brush.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Brush.h",
+              "RelativeToolTip": "Brush.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-24T09:15:32.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Paint.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Paint.cpp",
+              "RelativeDocumentMoniker": "Paint.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Paint.cpp",
+              "RelativeToolTip": "Paint.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T09:17:23.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pencil.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Pencil.cpp",
+              "RelativeDocumentMoniker": "Pencil.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Pencil.cpp",
+              "RelativeToolTip": "Pencil.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T09:16:10.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Banana.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Banana.cpp",
+              "RelativeDocumentMoniker": "Banana.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Banana.cpp",
+              "RelativeToolTip": "Banana.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T10:32:56.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banana.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Banana.h",
+              "RelativeDocumentMoniker": "Banana.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Banana.h",
+              "RelativeToolTip": "Banana.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-24T10:32:17.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fruit.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Fruit.h",
+              "RelativeDocumentMoniker": "Fruit.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Fruit.h",
+              "RelativeToolTip": "Fruit.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-24T10:29:39.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Paint.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Paint.h",
+              "RelativeDocumentMoniker": "Paint.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Paint.h",
+              "RelativeToolTip": "Paint.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-24T09:17:21.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fruit.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Fruit.cpp",
+              "RelativeDocumentMoniker": "Fruit.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Fruit.cpp",
+              "RelativeToolTip": "Fruit.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T10:31:01.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Brush.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Brush.cpp",
+              "RelativeDocumentMoniker": "Brush.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Brush.cpp",
+              "RelativeToolTip": "Brush.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAMwA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T09:15:45.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pencil.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Pencil.h",
+              "RelativeDocumentMoniker": "Pencil.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Pencil.h",
+              "RelativeToolTip": "Pencil.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-24T09:16:04.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Terran.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Terran.cpp",
+              "RelativeDocumentMoniker": "Terran.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Terran.cpp",
+              "RelativeToolTip": "Terran.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-24T09:16:35.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Terran.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Terran.h",
+              "RelativeDocumentMoniker": "Terran.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Terran.h",
+              "RelativeToolTip": "Terran.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-24T09:17:45.039Z",
+              "EditorCaption": ""
             }
           ]
         }

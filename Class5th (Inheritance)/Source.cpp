@@ -5,8 +5,8 @@ using namespace std;
 class Unit
 {
 protected:
-    int health;
-    int defense;
+    int health = 0;
+    int defense = 0;
 public:
     Unit()
     {
@@ -17,7 +17,7 @@ public:
 class Marine : public Unit
 {
 private:
-    int attack;
+    int attack = 0;
 public:
     Marine()
     {
