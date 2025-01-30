@@ -18,6 +18,18 @@ public:
 
     const int& Y() { return y; }
 
+    Vector2 operator + (const Vector2 & clone)
+    {
+        Vector2 newVector(this->x + clone.x, this->y + clone.y);
+
+        return newVector;
+    }
+    
+    void ShowVector()
+    {
+        cout << "x의 값 : " << x << ", " << "y의 값 : " << y << endl;
+    }
+
 };
 
 int main()
@@ -27,14 +39,10 @@ int main()
     Vector2 direction1(1, 1);
     Vector2 direction2(5, 5);
 
-    Vector2 direction = direction1 + direction2;
+    Vector2 direction3 = direction1 + direction2;
 
-    Vector2 operator + (const Vector2 & clone)
-    {
-        Vector2();
-
-            return ;
-    }
+    direction3.ShowVector();
+   
 
 #pragma endregion
 
