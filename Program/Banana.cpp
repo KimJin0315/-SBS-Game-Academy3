@@ -2,10 +2,10 @@
 
 Banana::Banana()
 {
-
+	cout << "Created Banana" << endl;
 }
 
 Banana::~Banana()
 {
-	cout << "Banana ¼Ò¸ê" << endl;
+	cout << "Release Banana" << endl;
 }

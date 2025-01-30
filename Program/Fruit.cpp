@@ -2,9 +2,10 @@
 
 Fruit::Fruit()
 {
+	cout << "Created Fruit" << endl;
 }
 
 Fruit::~Fruit()
 {
-	cout << "Fruit ¼Ò¸ê" << endl;
+	cout << "Release Fruit" << endl;
 }
