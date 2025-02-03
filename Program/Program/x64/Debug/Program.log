@@ -1,3 +1,2 @@
 ﻿  Program.cpp
-C:\Users\Administrator\Desktop\-SBS-Game-Academy3\Program\Program.cpp(25,15): warning C4101: 'intList' :참조되지 않은 지역 변수입니다.
-  Program.vcxproj -> C:\Users\Administrator\Desktop\-SBS-Game-Academy3\Program\x64\Debug\Program.exe
+C:\Users\admin\Desktop\-SBS-Game-Academy3\Program\Program.cpp(70,12): error C2062: 예기치 않은 'char' 형식입니다.
