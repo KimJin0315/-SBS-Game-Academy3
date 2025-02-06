@@ -11,6 +11,12 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{9711A946-8BF8-49E7-9F48-EA588D029A88}|..\\Class10th (Template)\\Class10th (Template).vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class10th (Template)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0804B606-4335-49BF-9A83-DCDB46DB781B}|..\\Class8th (Abstract)\\Class8th (Abstract).vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class8th (Abstract)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F1F145-97BE-421A-8025-77696A769BB4}|..\\Class12th (Thread)\\Class12th (Thread).vcxproj|C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class12th (Thread)\\Class12th (Thread).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,9 +36,37 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-30T04:28:43.331Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class8th (Abstract)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class8th (Abstract)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class8th (Abstract)\\Source.cpp",
+              "RelativeToolTip": "..\\Class8th (Abstract)\\Source.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-06T09:00:47.778Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class10th (Template)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class10th (Template)\\Source.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class10th (Template)\\Source.cpp",
+              "RelativeToolTip": "..\\Class10th (Template)\\Source.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-05T08:59:17.97Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -47,6 +81,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAIUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-05T10:36:27.868Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -79,15 +114,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class10th (Template)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class10th (Template)\\Source.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class10th (Template)\\Source.cpp",
-              "RelativeToolTip": "..\\Class10th (Template)\\Source.cpp",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAmwHEAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "Class12th (Thread).cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class12th (Thread)\\Class12th (Thread).cpp",
+              "RelativeDocumentMoniker": "..\\Class12th (Thread)\\Class12th (Thread).cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\-SBS-Game-Academy3\\Class12th (Thread)\\Class12th (Thread).cpp",
+              "RelativeToolTip": "..\\Class12th (Thread)\\Class12th (Thread).cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-05T08:59:17.97Z",
+              "WhenOpened": "2025-02-06T09:23:09.938Z",
               "EditorCaption": ""
             }
           ]
