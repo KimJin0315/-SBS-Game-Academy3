@@ -7,10 +7,10 @@
       "RelativeMoniker": "D:0:0:{9A0A175D-668E-4F54-9117-C8454232606D}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AC7DF50-C8C2-4BE3-82E8-6A2953F31DFD}|..\\Class9th (Operator Overloading)\\Class9th (Operator Overloading).vcxproj|C:\\Users\\admin\\Desktop\\-SBS-Game-Academy3\\Class9th (Operator Overloading)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D35F7559-102A-4163-971E-957DB4AFBA7E}|..\\Class15th (Associated Container)\\Class15th (Associated Container).vcxproj|C:\\Users\\admin\\Desktop\\-SBS-Game-Academy3\\Class15th (Associated Container)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0804B606-4335-49BF-9A83-DCDB46DB781B}|..\\Class8th (Abstract)\\Class8th (Abstract).vcxproj|C:\\Users\\admin\\Desktop\\-SBS-Game-Academy3\\Class8th (Abstract)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B129EC09-B2B7-4B3B-836D-FEECB9852FFD}|..\\Class14th (Container Adapter)\\Class14th (Container Adapter).vcxproj|C:\\Users\\admin\\Desktop\\-SBS-Game-Academy3\\Class14th (Container Adapter)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\admin\\Desktop\\-SBS-Game-Academy3\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-30T04:28:43.331Z",
               "IsPinned": true,
@@ -40,27 +40,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\-SBS-Game-Academy3\\Class9th (Operator Overloading)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class9th (Operator Overloading)\\Source.cpp",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\-SBS-Game-Academy3\\Class9th (Operator Overloading)\\Source.cpp",
-              "RelativeToolTip": "..\\Class9th (Operator Overloading)\\Source.cpp",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\-SBS-Game-Academy3\\Class15th (Associated Container)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class15th (Associated Container)\\Source.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\-SBS-Game-Academy3\\Class15th (Associated Container)\\Source.cpp",
+              "RelativeToolTip": "..\\Class15th (Associated Container)\\Source.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-03T09:08:49.691Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-02-10T10:39:55.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\-SBS-Game-Academy3\\Class8th (Abstract)\\Source.cpp",
-              "RelativeDocumentMoniker": "..\\Class8th (Abstract)\\Source.cpp",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\-SBS-Game-Academy3\\Class8th (Abstract)\\Source.cpp",
-              "RelativeToolTip": "..\\Class8th (Abstract)\\Source.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\-SBS-Game-Academy3\\Class14th (Container Adapter)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class14th (Container Adapter)\\Source.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\-SBS-Game-Academy3\\Class14th (Container Adapter)\\Source.cpp",
+              "RelativeToolTip": "..\\Class14th (Container Adapter)\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-03T09:23:06.793Z",
+              "WhenOpened": "2025-02-10T09:27:24.037Z",
               "EditorCaption": ""
             }
           ]
